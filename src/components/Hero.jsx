@@ -6,10 +6,10 @@ import "swiper/css";
 import "swiper/css/pagination";
 
 const slides = [
-  "/Images/hero1.png",
-  "/Images/hero2.png",
-  "/Images/hero3.png",
-  "/Images/hero4.png",
+  "/images/hero1.png",
+  "/images/hero2.png",
+  "/images/hero3.png",
+  "/images/hero4.png",
 ];
 
 export default function Hero() {
